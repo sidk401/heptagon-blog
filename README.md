@@ -31,7 +31,7 @@ Email: sidh.kumar401@gmail.com
 Password: 12345678
 `
 
-### .env Configration
+## .env Configration
 
 Database settings
 ```
@@ -40,12 +40,12 @@ DB_USERNAME=root
 DB_PASSWORD=admin
 ```
 
-## Page Limit
+### Page Limit
 ```
 PAGE_LIMIT=5 
 ```
 
-## Mailtrap Configration 
+### Mailtrap Configuration 
 
 ```
 MAIL_MAILER=smtp
